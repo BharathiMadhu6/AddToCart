@@ -1,7 +1,7 @@
 # AddToCart
 
-AddToCart is an iOS app. More specifically, it is an ecommerce app where you can shop for apparel, gadgets & other non essential things.
-The app gets the product details dynamicaly by making a REST API call. The user details such as email ID, products in the cart, order information are stored in the database. 
+AddToCart is an iOS app. More specifically, it is an e-commerce app where you can shop for apparel, gadgets & other non essential things.
+The app gets the product details dynamically by making a REST API call. The user details such as email ID, products in the cart, order information are stored in the database. 
 
 Technologies Used : Swift, Xcode, Google FireBase
 
